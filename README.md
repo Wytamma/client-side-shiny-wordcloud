@@ -2,4 +2,4 @@
 
 # Example client side shiny app running shinylive 
 
-[blog.wytamma.com/shiny-wordcloud](blog.wytamma.com/shiny-wordcloud)
+[blog.wytamma.com/client-side-shiny-wordcloud](blog.wytamma.com/client-side-shiny-wordcloud)
